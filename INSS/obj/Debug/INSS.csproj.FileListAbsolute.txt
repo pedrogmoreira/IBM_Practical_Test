@@ -1,0 +1,6 @@
+C:\Users\pedro\Desktop\Problemas c#\Problemas\INSS\bin\Debug\INSS.pdb
+C:\Users\pedro\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.pdb
+C:\Users\pedro\Desktop\Problemas c#\Problemas\INSS\bin\Debug\INSS.dll
+C:\Users\pedro\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.dll
